@@ -64,15 +64,15 @@
                  
                 switch(miembros){
                     case "1":
-                        document.write("Se enfoca la atención en la realización de técnicas de movilidad articular en miembros superiores ")
+                        document.write(". Se enfoca la atención en la realización de técnicas de movilidad articular en miembros superiores ")
                     break;
                 
                     case "2":
-                        document.write("Se enfoca la atención en técnicas de movilidad articular en miembros inferiores ")
+                        document.write(". Se enfoca la atención en técnicas de movilidad articular en miembros inferiores ")
                     break;
                 
                     case "3":
-                        document.write("Se enfoca la atención en técnicas de movilidad articular en miembros superiores e inferiores ")
+                        document.write(". Se enfoca la atención en técnicas de movilidad articular en miembros superiores e inferiores ")
                     break;
                 }
                 
